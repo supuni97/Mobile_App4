@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Robolectric Tester</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="test_fragment_label">Test Fragment</string>
+
+</resources>
